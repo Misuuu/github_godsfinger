@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 0b8b30aff6bf0b94b852de63347c68f6
+timeCreated: 1457702831
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _terre_continent_00
+    100002: _terre_continent_01
+    100004: _terre_continent_02
+    100006: _terre_continent_03
+    100008: _terre_continent_04
+    100010: _terre_continent_top_00
+    100012: _terre_continent_top_01
+    100014: _terre_continent_top_02
+    100016: //RootNode
+    400000: _terre_continent_00
+    400002: _terre_continent_01
+    400004: _terre_continent_02
+    400006: _terre_continent_03
+    400008: _terre_continent_04
+    400010: _terre_continent_top_00
+    400012: _terre_continent_top_01
+    400014: _terre_continent_top_02
+    400016: //RootNode
+    2300000: _terre_continent_00
+    2300002: _terre_continent_01
+    2300004: _terre_continent_02
+    2300006: _terre_continent_03
+    2300008: _terre_continent_04
+    2300010: _terre_continent_top_00
+    2300012: _terre_continent_top_01
+    2300014: _terre_continent_top_02
+    2300016: //RootNode
+    3300000: _terre_continent_00
+    3300002: _terre_continent_01
+    3300004: _terre_continent_02
+    3300006: _terre_continent_03
+    3300008: _terre_continent_04
+    3300010: _terre_continent_top_00
+    3300012: _terre_continent_top_01
+    3300014: _terre_continent_top_02
+    3300016: //RootNode
+    4300000: _terre_eau_00
+    4300002: _terre_continent_03
+    4300004: _terre_continent_01
+    4300006: _terre_continent_02
+    4300008: _terre_continent_00
+    4300010: _terre_continent_04
+    4300012: _terre_continent_top_02
+    4300014: _terre_continent_top_00
+    4300016: _terre_continent_top_01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 300
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
